@@ -1,7 +1,6 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
 import gym
-from numpy import take_along_axis
 
 env = gym.make('CartPole-v0')
 
