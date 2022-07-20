@@ -1,0 +1,5 @@
+# DRL env
+gym>=0.19
+
+#pygame
+pygame
